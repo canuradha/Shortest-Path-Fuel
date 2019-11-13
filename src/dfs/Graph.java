@@ -1,4 +1,4 @@
-package lk.ac.pdn.mt;
+package dfs;
 
 import java.util.HashMap;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package lk.ac.pdn.mt;
+package dfs;
 
 import java.util.ArrayList;
 import java.util.Collections;

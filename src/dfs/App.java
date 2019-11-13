@@ -1,4 +1,4 @@
-package lk.ac.pdn.mt;
+package dfs;
 
 import java.io.BufferedReader;
 import java.io.File;
